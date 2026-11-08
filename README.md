@@ -2,7 +2,6 @@
 
 [![skills.sh](https://skills.sh/b/zodiacs-org/skills)](https://skills.sh/zodiacs-org/skills)
 
-> Local draft. Not yet published. The repository `zodiacs-org/skills` and the install command below work only after this draft is approved and published.
 
 An agent skill for the Zodiacs MCP server at `https://zodiacs.org/mcp`: which tool to call, the input rules, privacy of birth details, and how to word readings.
 
