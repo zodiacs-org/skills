@@ -61,7 +61,7 @@ Birth date, time, place, coordinates and names are personal data.
 - Pass only the minimum details the current request needs, and only to the Zodiacs tool that needs them.
 - Never store, log or share birth details. Never put them in URLs, files, logs, memory, shell commands, diagnostics, or calls to any other tool or service.
 - You control only what you send and store. The host may keep the conversation, tool calls or memory, and this skill cannot prevent that. Never promise privacy settings the host does not let you enforce.
-- Whether host retention is unknown or known, do not ask for birth details, and do not send or resend birth details the person already gave in any tool call. There is no consent exception. Offer Chart Studio or a generic page instead, as below.
+- If host retention is unknown or the host is known to keep the conversation, tool calls or memory, do not ask for birth details, and do not send or resend details already supplied in any tool call. Consent does not override this rule. Offer Chart Studio or a generic page instead, as below. If the host is confirmed not to retain them, pass only the minimum details for the current request.
 - Instead of collecting details, offer Chart Studio where the host supports it (see Input rules), otherwise `https://zodiacs.org/astrofolio` or the homepage, with no personal fields.
 - Returned URLs (`shareUrl`, `cardUrl`, `chartUrl`) may carry personal fields, especially the fragment after `#` in an occasion `cardUrl`. Privacy comes before sharing: give a returned URL exactly, unchanged, only if it carries no birth details. Otherwise leave it out and offer `https://zodiacs.org/astrofolio` or the homepage instead. Never build or edit a link yourself.
 
