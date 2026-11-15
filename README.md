@@ -2,8 +2,9 @@
 
 [![skills.sh](https://skills.sh/b/zodiacs-org/skills)](https://skills.sh/zodiacs-org/skills)
 
-
 An agent skill for the Zodiacs MCP server at `https://zodiacs.org/mcp`: which tool to call, the input rules, privacy of birth details, and how to word readings.
+
+The skill tells agents to use birth details only for a one-time calculation the person chooses, never to store or log them, never to put them in URLs or send them to third parties, and to refuse any reading for a child under 13 without collecting anything about the child.
 
 ## Install
 
